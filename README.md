@@ -1,5 +1,7 @@
 # audioplayer-vue
 
+link to app: https://vue-audioplayer.firebaseapp.com/
+
 ## Project setup
 ```
 npm install
